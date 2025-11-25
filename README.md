@@ -3,3 +3,4 @@ Repositorio con imagen
 
 ![Practica](OIP.jpg)
 ![Practica](OIP.webp)
+![Practica](foto.webp)
